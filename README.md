@@ -11,4 +11,4 @@ This analysis utilizes the public **Brazilian E-Commerce Public Dataset by Olist
   * **Data Integrity & Deduplication:** Resolving duplicate records and validating primary/foreign key relationships across order, seller, and product tables.
   * **Imputation & Null Handling:** Standardizing missing values to preserve analytical accuracy.
   * **Temporal Standardization:** Ensuring timestamp consistency across order approval, carrier handoff, and customer delivery milestones.
-  * **Feature Engineering:** Deriving key business metrics (e.g., delivery lead times, freight-to-price ratios, and seller fulfillment speeds) to support downstream exploratory analysis.
+  * **Feature Engineering:** Deriving key business metrics (e.g., number of items per order, order transaction value) to support downstream exploratory analysis.
